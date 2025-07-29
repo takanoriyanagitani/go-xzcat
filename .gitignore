@@ -30,3 +30,8 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+*.swp
+cmd/xz/xz
+cmd/xz/xz.wasm
+cmd/xzcat/xzcat
+cmd/xzcat/xzcat.wasm
